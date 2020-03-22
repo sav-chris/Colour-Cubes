@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\Blue Barrel.x</Source>
+      <Name>Models\Blue Barrel</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Blue Barrel.xnb</Output>
+      <Time>2008-08-03T10:47:36.9573958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Blue Barrel%0.xml</Key>
+        <Value>2008-08-29T21:10:10.464+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Blue Barrel.xMetal_Steel_Textured_White%0.xnb</Request>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Blue Barrel.xMetal_Rusted%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Explosive Barrel.x</Source>
+      <Name>Models\Explosive Barrel</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Explosive Barrel.xnb</Output>
+      <Time>2008-08-03T10:47:37.0443958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Explosive Barrel%0.xml</Key>
+        <Value>2008-08-29T21:10:11.101+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Explosive Barrel.xMetal_Steel_Textured_White%0.xnb</Request>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Explosive Barrel.xMetal_Rusted%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Floor.x</Source>
+      <Name>Models\Floor</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Floor.xnb</Output>
+      <Time>2008-08-03T10:47:37.0313958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Floor%0.xml</Key>
+        <Value>2008-08-29T21:10:11.284+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Floor.xBrick_Pavers_Modular%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Large Crate.x</Source>
+      <Name>Models\Large Crate</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Large Crate.xnb</Output>
+      <Time>2008-08-03T10:47:36.9523958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Large Crate%0.xml</Key>
+        <Value>2008-08-29T21:10:11.382+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Large Crate.xRoofing_Metal_Standing_Seam_Red%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Medium Cage.x</Source>
+      <Name>Models\Medium Cage</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Medium Cage.xnb</Output>
+      <Time>2008-08-03T10:47:37.0273958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Medium Cage%0.xml</Key>
+        <Value>2008-08-29T21:10:11.446+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Medium Cage.xMetal_Embossed%0.xnb</Request>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Medium Cage.xFencing_Chain_Link%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Medium Crate.x</Source>
+      <Name>Models\Medium Crate</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Medium Crate.xnb</Output>
+      <Time>2008-08-03T10:47:36.9663958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Medium Crate%0.xml</Key>
+        <Value>2008-08-29T21:10:11.551+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Medium Crate.xRoofing_Metal_Standing_Seam_Red%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Roof.x</Source>
+      <Name>Models\Roof</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Roof.xnb</Output>
+      <Time>2008-08-03T10:47:37.0383958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Roof%0.xml</Key>
+        <Value>2008-08-29T21:10:11.61+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Roof.xCladding_Stucco_White%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Small Crate.x</Source>
+      <Name>Models\Small Crate</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Small Crate.xnb</Output>
+      <Time>2008-08-03T10:47:37.0493958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Small Crate%0.xml</Key>
+        <Value>2008-08-29T21:10:11.758+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Small Crate.xRoofing_Metal_Standing_Seam_Red%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Wall.x</Source>
+      <Name>Models\Wall</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Wall.xnb</Output>
+      <Time>2008-08-03T10:47:37.0053958+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Wall%0.xml</Key>
+        <Value>2008-08-29T21:10:11.849+10:00</Value>
+      </Dependency>
+      <Request>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Wall.xBrick_Rough_Dark%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Colour_Cube.x</Source>
+      <Name>Models\Colour_Cube</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\Models\Colour_Cube.xnb</Output>
+      <Time>2008-08-29T18:10:20.961+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Colour_Cube%0.xml</Key>
+        <Value>2008-08-29T21:10:11.941+10:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Blue Barrel.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Blue Barrel%0.xml</Output>
+      <Time>2008-08-03T10:47:36.9573958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Blue Barrel.xMetal_Steel_Textured_White.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Blue Barrel.xMetal_Steel_Textured_White%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.5063958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Blue Barrel.xMetal_Rusted.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Blue Barrel.xMetal_Rusted%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.5623958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Explosive Barrel.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Explosive Barrel%0.xml</Output>
+      <Time>2008-08-03T10:47:37.0443958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Explosive Barrel.xMetal_Steel_Textured_White.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Explosive Barrel.xMetal_Steel_Textured_White%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.5903958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Explosive Barrel.xMetal_Rusted.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Explosive Barrel.xMetal_Rusted%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.4683958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Floor.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Floor%0.xml</Output>
+      <Time>2008-08-03T10:47:37.0313958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Floor.xBrick_Pavers_Modular.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Floor.xBrick_Pavers_Modular%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.4743958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Large Crate.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Large Crate%0.xml</Output>
+      <Time>2008-08-03T10:47:36.9523958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Large Crate.xRoofing_Metal_Standing_Seam_Red.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Large Crate.xRoofing_Metal_Standing_Seam_Red%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.5553958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Medium Cage.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Medium Cage%0.xml</Output>
+      <Time>2008-08-03T10:47:37.0273958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Medium Cage.xMetal_Embossed.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Medium Cage.xMetal_Embossed%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.5493958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Medium Cage.xFencing_Chain_Link.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Medium Cage.xFencing_Chain_Link%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.4623958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Medium Crate.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Medium Crate%0.xml</Output>
+      <Time>2008-08-03T10:47:36.9663958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Medium Crate.xRoofing_Metal_Standing_Seam_Red.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Medium Crate.xRoofing_Metal_Standing_Seam_Red%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.3173958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Roof.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Roof%0.xml</Output>
+      <Time>2008-08-03T10:47:37.0383958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Roof.xCladding_Stucco_White.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Roof.xCladding_Stucco_White%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.4483958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Small Crate.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Small Crate%0.xml</Output>
+      <Time>2008-08-03T10:47:37.0493958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Small Crate.xRoofing_Metal_Standing_Seam_Red.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Small Crate.xRoofing_Metal_Standing_Seam_Red%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.5433958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Wall.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Wall%0.xml</Output>
+      <Time>2008-08-03T10:47:37.0053958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Wall.xBrick_Rough_Dark.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\textures\Wall.xBrick_Rough_Dark%0.xnb</Output>
+      <Time>2008-08-03T10:47:37.4953958+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Colour_Cube.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Colour_Cube%0.xml</Output>
+      <Time>2008-08-29T18:10:20.961+10:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <RootDirectory>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\TheOnionKnight\Desktop\Deadtree\Physics_Demo\Physics_Demo\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-08-03T10:25:45.2101958+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
